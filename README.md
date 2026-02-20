@@ -7,17 +7,6 @@
   
 Estou ocasionalmente testando alguma ideia maluca. Afinal, é uma das melhores partes de ser desenvolvedor.
 
-##
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Henrique-Arcilio&theme=dark&show_icons=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-Arcilio&layout=compact&theme=dark"
-    height="170"
-  />
-</div>
 
 ## Tecnologias
 
