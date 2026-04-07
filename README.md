@@ -1,7 +1,7 @@
 # Sobre mim
 
 - 🎂 Me chamo Aldomário Henrique e tenho 22 anos
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas **(5/6)**
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas **(6/6)**
 - 💻 Meu foco atualmente tem sido **desenvolvimento backend** com **Spring**
 - 📚 Embora não seja meu foco principal eu tenho conhecimentos em **JavaScript**, **HTML**, **CSS** e **React**
   
